@@ -1,3 +1,10 @@
+# feel free to contact
+# sreeramaj53@gmail.com
+# www.youtube.com/ZenoModiff
+# last updated - time 12:34 AM - date 29 may 2021
+# Github Link :-- https://github.com/Zenomodiff/Gesture-Controlled-PC-Using-Arduino-Python
+
+
 import serial                                   
 import pyautogui                                  
 
