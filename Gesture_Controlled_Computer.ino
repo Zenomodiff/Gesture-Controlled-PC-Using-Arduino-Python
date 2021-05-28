@@ -1,3 +1,10 @@
+/*feel free to contact
+ * sreeramaj53@gmail.com
+ * www.youtube.com/ZenoModiff
+ * last updated - time 12:32 AM - date 29 may 2021
+ Github Link :-- https://github.com/Zenomodiff/Gesture-Controlled-PC-Using-Arduino-Python
+ */
+
 const int trigPin1 = 12;
 const int echoPin1 = 11;   
 const int trigPin2 = 6; 
